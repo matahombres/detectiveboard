@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/detectiveboard/static/css/main.1918088d.css",
-    "main.js": "/detectiveboard/static/js/main.e6ca25c6.js",
+    "main.css": "/detectiveboard/static/css/main.0c2f9e0c.css",
+    "main.js": "/detectiveboard/static/js/main.c8584721.js",
     "static/js/787.223550ad.chunk.js": "/detectiveboard/static/js/787.223550ad.chunk.js",
     "static/media/pin.png": "/detectiveboard/static/media/pin.ae15f9322865325c0ee4.png",
     "static/media/delete.png": "/detectiveboard/static/media/delete.3c662b752278fc52f408.png",
     "index.html": "/detectiveboard/index.html",
-    "main.1918088d.css.map": "/detectiveboard/static/css/main.1918088d.css.map",
-    "main.e6ca25c6.js.map": "/detectiveboard/static/js/main.e6ca25c6.js.map",
+    "main.0c2f9e0c.css.map": "/detectiveboard/static/css/main.0c2f9e0c.css.map",
+    "main.c8584721.js.map": "/detectiveboard/static/js/main.c8584721.js.map",
     "787.223550ad.chunk.js.map": "/detectiveboard/static/js/787.223550ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1918088d.css",
-    "static/js/main.e6ca25c6.js"
+    "static/css/main.0c2f9e0c.css",
+    "static/js/main.c8584721.js"
   ]
 }
