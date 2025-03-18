@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/detectiveboard/static/css/main.995f8b3d.css",
+    "main.js": "/detectiveboard/static/js/main.fc0715ef.js",
+    "static/js/787.223550ad.chunk.js": "/detectiveboard/static/js/787.223550ad.chunk.js",
+    "static/media/pin.png": "/detectiveboard/static/media/pin.ae15f9322865325c0ee4.png",
+    "static/media/delete.png": "/detectiveboard/static/media/delete.3c662b752278fc52f408.png",
+    "index.html": "/detectiveboard/index.html",
+    "main.995f8b3d.css.map": "/detectiveboard/static/css/main.995f8b3d.css.map",
+    "main.fc0715ef.js.map": "/detectiveboard/static/js/main.fc0715ef.js.map",
+    "787.223550ad.chunk.js.map": "/detectiveboard/static/js/787.223550ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995f8b3d.css",
+    "static/js/main.fc0715ef.js"
+  ]
+}
